@@ -37,13 +37,13 @@ A Half Adder is a combinational logic circuit that adds two 1-bit binary inputs.
 
 The transistor-level schematic was created using Synopsys Custom Compiler.
 
-![Half Adder Schematic](images/halfadder_schematic.jpeg)
+![Half Adder Schematic](halfadder_schematic.jpeg)
 
 ## Half Adder Layout
 
 The corresponding CMOS physical layout was implemented in Synopsys Custom Compiler using the SAED 32 nm PDK.
 
-![Half Adder Layout](images/Halfadder_layout.jpeg)
+![Half Adder Layout](Halfadder_layout.jpeg)
 
 ## Half Adder Verification
 
@@ -53,7 +53,7 @@ The design was verified using Synopsys IC Validator.
 - **LVS:** Pass
 - **Extraction:** Clean
 
-![Half Adder Verification](images/Halfadder_verification.jpeg)
+![Half Adder Verification](Halfadder_verification.jpeg)
 
 ---
 
@@ -75,13 +75,13 @@ A Full Adder is a combinational logic circuit that adds three 1-bit inputs: two 
 
 The transistor-level schematic was created using Synopsys Custom Compiler.
 
-![Full Adder Schematic](images/Fulladder_schematic.jpeg)
+![Full Adder Schematic](Fulladder_schematic.jpeg)
 
 ## Full Adder Layout
 
 The corresponding CMOS physical layout was implemented in Synopsys Custom Compiler using the SAED 32 nm PDK.
 
-![Full Adder Layout](images/Fulladder_layout.jpeg)
+![Full Adder Layout](Fulladder_layout.jpeg)
 
 ## Full Adder Verification
 
@@ -91,7 +91,7 @@ The design was verified using Synopsys IC Validator.
 - **LVS:** Pass
 - **Extraction:** Clean
 
-![Full Adder Verification](images/Fulladder_verification.jpeg)
+![Full Adder Verification](Fulladder_verification.jpeg)
 
 ---
 
