@@ -133,7 +133,7 @@ Successfully completed the schematic design, CMOS physical layout implementation
 # Author
 
 **Esakkiraj G**
-B.E. Electronics and Communication Engineering
-Custom & Analog Layout Trainee
+B.E. Electronics and Communication Engineering, 
+Custom & Analog Layout Engineer
 
 **Domain:** VLSI | Custom Layout | Analog Layout | CMOS Design
